@@ -1,0 +1,8 @@
+{
+  "name": "finalproject-ghpages",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "fancybox": "2.1.5"
+  }
+}
