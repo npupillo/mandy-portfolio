@@ -4,3 +4,4 @@
 
 ## Project: Online Artist Portfolio
 - HTML, CSS, jQuery, Fancybox
+- Deployed to GitHub Pages: http://npupillo.github.io/mandy-portfolio
